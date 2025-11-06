@@ -1,0 +1,20 @@
+<div class="container" onswipe="touchMove">
+    <text class="header">Weather Now</text>
+
+    <list class="list-wrapper">
+        <list-item class="list-item">
+            <div class="row" onclick="currentLocation">
+                <image class="buttonIcon" src="/icons/ic_forecast.png"></image>
+                <text class="buttonText">Current Location</text>
+            </div>
+        </list-item>
+        <list-item class="list-item">
+            <div class="row" onclick="getLocation">
+                <image class="buttonIcon" src="/icons/ic_current.png"></image>
+                <text class="buttonText">Get Location</text>
+            </div>
+        </list-item>
+    </list>
+
+    <text class="location">{{geolocationGetData}}</text>
+</div>

@@ -1,0 +1,5 @@
+<stack class="stack" onswipe="swipe">
+    <div class="container">
+        <image class="icon" src="/icons/ic_weather.png"></image>
+    </div>
+</stack>

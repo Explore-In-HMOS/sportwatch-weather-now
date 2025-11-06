@@ -1,0 +1,17 @@
+<div class="container" style="background-color: {{bgColor}};">
+    <div class="header">
+        <text class="back-btn" onclick="goBack">← Back</text>
+    </div>
+
+    <text class="city">Ankara</text>
+    <image src="{{iconSrc}}" class="weather-icon"></image>
+    <text class="temp">{{temperature}}°{{unit}}</text>
+    <text class="description">{{weatherDesc}}</text>
+
+    <div class="details">
+        <text class="detail-item">💧 Humidity: {{humidity}}%</text>
+        <text class="detail-item">🌬 Wind: {{windSpeed}} km/h</text>
+    </div>
+
+    <text class="refresh-btn" onclick="loadRandomWeather">Refresh Weather</text>
+</div>
