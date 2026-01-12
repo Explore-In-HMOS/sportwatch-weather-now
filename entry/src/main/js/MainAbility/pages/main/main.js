@@ -10,7 +10,7 @@ export default {
     },
     currentLocation() {
         router.replace({
-            uri: 'pages/current/current',
+            uri: 'pages/current/current'
         });
     },
     getLocation() {

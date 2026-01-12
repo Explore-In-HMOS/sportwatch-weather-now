@@ -1,6 +1,6 @@
 {
   "app": {
-    "bundleName": "com.hmosdemos.weathernow",
+    "bundleName": "com.hmosdemos.lite_wearable.sportwatch_how_to_use_location_kit",
     "vendor": "hmosdemos",
     "version": {
       "code": 1000000,

@@ -60,7 +60,7 @@ export default {
 
     goBack() {
         router.replace({
-            uri: 'pages/main/main',
+            uri: 'pages/main/main'
         });
     }
 };
