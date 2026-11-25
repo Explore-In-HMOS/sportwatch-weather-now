@@ -2,7 +2,7 @@
 
 # WeatherNow
 
-WeatherNow is a HarmonyOS Lite Wearable application that shows the current weather. It uses the Location Kit to get the device’s location and displays weather information such as temperature, weather conditions, and more, directly on your wrist.
+WeatherNow is a HarmonyOS SportWatch application that shows the current weather. It uses the Location Kit to get the device’s location and displays weather information such as temperature, weather conditions, and more, directly on your wrist.
 
 # Preview
 <div>
@@ -16,9 +16,9 @@ WeatherNow is a HarmonyOS Lite Wearable application that shows the current weath
 
 **Current Weather Display:** Currently, the app simulates weather conditions using example (mock) data.
 
-**Wearable Convenience:** Designed specifically for HarmonyOS Lite Wearable devices, providing quick and glanceable weather information.
+**Wearable Convenience:** Designed specifically for HarmonyOS SportWatch devices, providing quick and glanceable weather information.
 
-**Developer Learning:** Serves as a practical example for developers to understand weather data display on Lite Wearable devices and prepare for future Location Kit integration.
+**Developer Learning:** Serves as a practical example for developers to understand weather data display on SportWatch devices and prepare for future Location Kit integration.
 
 # Technology
 
